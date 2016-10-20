@@ -1,0 +1,14 @@
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d0f50dbe9f07e113c1a90021569ef416";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<p>闽ICP备16026545号 <a href="javascript:;">QQ群:374109258</a> <a href="http://tongji.baidu.com/web/22373989/overview/sole?siteId=9927042" target="_blank">百度统计</a></p>
+<p>?Design by zengzy | since 2016.10.19</p>
+
+<h2>Zengzy</h2><code>微 信</code> : purein<hr><h5>总之岁月漫长,然而没啥等待.</h5><h6 class="text-center">- 村上春树 -</h6>
